@@ -13,13 +13,14 @@ header {
     padding: 12px;
     max-width: 768px;
     text-align: center;
-    background-image: url("img/PXL_20221023_044615845.MP.jpg");
-    background-position: 25% 50%;
+    background-image: url("img/PXL_20221023_044636673.MP.jpg");
+    background-position: 50% 41%;
 }
 
 header h1 {
     font-size: 320%;
     color: #fff;
+    text-shadow: 1px 1px 5px black;
 }
 
 article {
